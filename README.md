@@ -31,4 +31,4 @@ $ slack-emoji-watcher
 | name | description | default | require | environment |
 | :--- | :---------- | :-----: | :-----: | :---------- |
 | token | Set your slack bot token |  | true | SLACK_BOT_TOKEN |
-| channel | Set your slack notification channel | random |  | SLACK_CHANNEL_NAME |
+| channel | Set your slack notification channel |  | true | SLACK_CHANNEL_NAME |
